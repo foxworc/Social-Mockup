@@ -39,11 +39,33 @@ h2 {
 
 #thinRectangle {
     background-color:white;
-    padding-right: 10px;
-    margin-right: 10px; 
+    width: 850px;
+    height: 75px;
+
 }
 
 
 header {
     width: 850px;
+}
+
+li {
+    display: inline;
+}
+
+ul {
+    margin: 0;
+    margin-left: 115px;
+    padding-top: 30px;
+    
+}
+
+#photoSquare {
+    border: 1px solid black;
+    width: 125px;
+    height: 125px;
+    margin-top: 100px;
+    position:  relative;
+    margin-left: 15px;
+    background-color: navy;
 }
