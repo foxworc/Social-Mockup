@@ -1,0 +1,54 @@
+body {
+    background-color: grey;
+    
+
+}
+
+
+header {
+    margin:0 auto;
+    width: 850px
+}
+
+#bigRectangle {
+    background-color: blue;
+    height: 300px;
+
+}
+
+h1 {
+
+    color: white;
+    vertical-align: bottom;
+}
+
+
+h2 {
+    color: white;
+}
+
+#h1h2 {
+
+    position: relative;
+    top: 200px;
+    
+    left: 150px;
+
+}
+
+
+#thinRectangle {
+    background-color:white;
+    display: inline;
+    padding-right: 10px;
+    margin-right: 10px; 
+    
+
+    
+
+}
+
+
+header {
+    width: 850px;
+}
