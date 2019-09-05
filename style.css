@@ -1,6 +1,6 @@
 body {
     background-color: grey;
-    
+    margin:0 auto;
 
 }
 
@@ -72,10 +72,12 @@ ul {
 }
 
 main {
-
-    margin: auto; 
+    margin: 0 auto;
     width: 850px;
+    display: flex;
+    justify-content: space-between;
 }
+
 
 #column-1 {
 
@@ -87,6 +89,9 @@ main {
 
 }
 
+
+
+
 #column-2 {
     width: 512px;
     height: 900px;
@@ -96,11 +101,19 @@ main {
 
 
 #box-1a {
-
+    text-align: center;
     width: 300px;
     height: 200px;
     border: 1px solid black;
     
+}
+
+
+#box-2a {
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    border: 1px solid black; 
 }
 
 
